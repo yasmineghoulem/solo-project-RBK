@@ -1,0 +1,66 @@
+
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=username], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button {
+  width: 50%;
+  background-color: #105012a6;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 110px; 
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+   
+}
+button{
+    margin-left: 110px;
+}
+button:hover {
+  background-color:white;
+  color: #105012a6;
+
+}
+ 
+.form {
+    border-radius: 5px;
+    background-color: #9e9e9e33;
+    padding: 20px;
+    max-width: 500px;
+    margin-top: 300px;
+    margin-left: 400px;
+}
+#p{
+  color: red;
+}
+body {
+ background-image: url("./imgs/7.jpg");
+ background-color: #cccccc;
+ background-size: 2000px 1000px;
+}
